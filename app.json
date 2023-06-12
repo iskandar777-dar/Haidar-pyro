@@ -3,7 +3,7 @@
     "description": "Nothing Speciall !!!.",
     "logo": "https://telegra.ph/file/80ddddfcd915d468bdb1a.png",
     "keywords": ["telegram", "userbot", "pyrogram"],
-    "repository": "https://github.com/iskandar777-dar/haidar-pyro",
+    "repository": "https://github.com/iskandar777-dar/Haidar-pyro",
     "stack": "heroku-22",
     "env": {
         "SESSION1": {
